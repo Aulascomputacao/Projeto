@@ -1,4 +1,4 @@
--- Alunos João Vitor e William
+
 -- CRIANDO DATABASE    
 CREATE DATABASE TRANSPORTADORA 
 
